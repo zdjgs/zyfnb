@@ -10,7 +10,9 @@
   <head>
     <title>$Title$</title>
   </head>
+  <script>
+    function fun(){}
+  </script>
   <body>
-  $END$
   </body>
 </html>
